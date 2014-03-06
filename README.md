@@ -1,4 +1,4 @@
-Linux course for beginners at ackafe Plovdiv
+Linux course for beginners at Hackafe Plovdiv
 =============================================
 
 Lessons and presentations for the Linux course at Hackafe.
